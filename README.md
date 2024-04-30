@@ -1,4 +1,4 @@
-- 👋 # Hello, I'm @Inescig
+- 👋 # Hello, I'm Ines
 
 
 ## Objective
@@ -12,6 +12,3 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I fond of chicken Feet
   
-Inescig/Inescig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
